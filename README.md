@@ -1,5 +1,10 @@
-# &#9881;&#65039; Crud Demo DAO
+# Crud Demo DAO
 
-## Um exemplo de CRUD em DAO.
+This repository is a demonstration of a simple CRUD in the Data Access Object pattern.
 
-O código é um exemplo de um crud simples no padrão Data Access Object.
+Building
+--------
+Prerequisites:
+
+* JDK 8+
+* Apache Tomcat V9.0
